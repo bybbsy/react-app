@@ -1,0 +1,8 @@
+.navbar__wrapper {
+  width: 180px;
+  transition: 0.2s all ease;
+}
+
+.navbar__wrapper.closed {
+  width: 20px;
+}
